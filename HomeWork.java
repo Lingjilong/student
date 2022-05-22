@@ -1,5 +1,6 @@
 public class HomeWork{
-
+    //预备工作
+	private String prepare;
 	//在家开发的内容
 	private String content;
 	private String name;
