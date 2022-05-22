@@ -1,0 +1,13 @@
+public class HomeWork{
+
+	//ï¿½Ú¼Ò¿ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	private String content;
+	private String name;
+	private String time;
+
+	//ï¿½Ú¹ï¿½Ë¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+	private int id;
+
+	//ÔÚÉÏº£¿ª·¢µÄÄÚÈÝ
+	private int numbers;
+}
