@@ -7,4 +7,7 @@ public class HomeWork{
 
 	//在公司开发的内容
 	private int id;
+
+	//在上海开发的内容
+	private int numbers;
 }
