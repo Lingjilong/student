@@ -7,4 +7,7 @@ public class HomeWork{
 
 	//锟节癸拷司锟斤拷锟斤拷锟斤拷锟斤拷锟斤拷
 	private int id;
+
+	//在上海开发的内容
+	private int numbers;
 }
