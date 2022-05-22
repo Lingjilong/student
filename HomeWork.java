@@ -10,4 +10,47 @@ public class HomeWork{
 
 	//在上海开发的内容
 	private int numbers;
+
+
+	//just for test
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getTime() {
+		return time;
+	}
+
+	public void setTime(String time) {
+		this.time = time;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public int getNumbers() {
+		return numbers;
+	}
+
+	public void setNumbers(int numbers) {
+		this.numbers = numbers;
+	}
 }
