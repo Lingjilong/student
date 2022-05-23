@@ -15,6 +15,9 @@ public class Qingjia{
         System.out.println("=========请，接着请555============");
         System.out.println("=========请，接着请4444============");
         System.out.println("=========请，接着请5555============");
+        System.out.println("=========请，接着请5555============");
+        System.out.println("=========请，接着请5555============");
+        System.out.println("=========请，接着请5555============");
 
     }
 }
