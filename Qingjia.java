@@ -4,5 +4,6 @@ public class Qingjia{
         System.out.println("=========请两天假============");
         System.out.println("=========再请两天假============");
         System.out.println("=========继续请两天假============");
+        System.out.println("=========请，接着请============");
     }
 }
